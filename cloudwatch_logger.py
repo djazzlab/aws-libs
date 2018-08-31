@@ -2,8 +2,6 @@
 from boto3 import client as boto3_cli
 
 # Python 3 libraries requirements
-#from calendar import timegm
-#from datetime import datetime
 from time import time as epoch_ts
 
 #
